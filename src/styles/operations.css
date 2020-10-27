@@ -1,0 +1,46 @@
+.operations{
+    align-content: center;
+    padding:10px;
+    margin-top: 10vh;
+}
+
+
+
+.input{
+    border:none;
+    padding:15px;
+    border-radius: 2px;
+    margin:5px;
+    box-shadow: 1px 4px 5px rgba(0, 0, 0, 0.25);
+    width: 150px;
+}
+
+
+.expensebtn{
+    margin: 5%;
+    font-size: x-large;
+    color:white;
+    
+    border:none;
+    padding:10px;
+    border-radius: 2px;
+    box-shadow: 1px 4px 5px rgba(0, 0, 0, 0.25);
+}
+
+.deposite{
+    background-color: rgb(85, 224, 85);
+}
+
+.withdraw{
+    background-color: rgb(245, 86, 86);
+}
+
+.animate-no{
+    animation: wobble-hor-bottom 0.8s both;
+}
+
+
+
+
+
+  

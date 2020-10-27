@@ -1,0 +1,24 @@
+.category-head{
+    text-align: left;
+    padding-left: 10px;
+    margin:10px;
+}
+.expense{
+    background-color: white;
+    margin: 10px 7vw;
+    border-radius: 2px;
+    box-shadow: 1px 4px 5px rgba(0, 0, 0, 0.25);
+    padding:10px;
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.category-container{
+    overflow: scroll;
+}
+
+
+.expansion{
+    margin: 5px 20px;
+    
+}
